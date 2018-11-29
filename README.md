@@ -1,7 +1,7 @@
 # Webpack Template
 
 ## Description
-This is a basic template to follow for building future projects using webpack. It will install the following technologies into projects:
+This project is practice for setting up projects using webpack.  It also serves as a template to follow for future projects. It will install the following technologies into projects:
 
 * Axios
 * Firebase
