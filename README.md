@@ -10,3 +10,6 @@ This project is practice for setting up projects using webpack.  It also serves 
 * jQuery
 * Babel
 * ES-Lint
+
+## Notes
+As this is simply a template for future use, there is nothing to see here.
