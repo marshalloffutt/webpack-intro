@@ -8,4 +8,5 @@ This project is practice for setting up projects using webpack.  It also serves 
 * Bootstrap
 * Sass
 * jQuery
-* Es-Lint
+* Babel
+* ES-Lint
